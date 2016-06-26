@@ -10,7 +10,7 @@ namespace ConsoleApplication01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, All!");
+            Console.WriteLine("Hello, All! - changed from web side");
             Console.WriteLine("2nd line");
         }
     }
